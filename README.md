@@ -2,7 +2,6 @@
 
 ![](https://img.shields.io/github/languages/count/gowthamrajk/BloodBankManagement)   ![](https://img.shields.io/github/languages/top/gowthamrajk/BloodBankManagement)
 
-### For more such developments, visit my [Portfolio](https://gowthamrajk.github.io)
 
 ##  Features 💬
 
